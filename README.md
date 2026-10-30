@@ -1,6 +1,13 @@
 # R-skill
 <img width="900" height="750" alt="image" src="https://github.com/user-attachments/assets/1be67635-4429-4c76-a904-e85a077a441b" />
 
+<img width="596" height="425" alt="e94d1e13-f795-4182-a108-dacf0b41c5ce" src="https://github.com/user-attachments/assets/1decace3-1881-4280-b018-5d0014c3b796" />
+
+<img width="1050" height="1050" alt="3fb33bd6-39ad-45dd-ab68-647874a7f535" src="https://github.com/user-attachments/assets/209e76e7-9d48-412b-ab6c-dc9672acea33" />
+
+<img width="1080" height="945" alt="055320f3-fe67-43c4-814d-a4a3aedc679a" src="https://github.com/user-attachments/assets/75a3e4b0-c8ab-4506-a03d-20062454d933" />
+
+
 R 语言绘图与数据整理专家（原顶刊科研绘图）。覆盖四大模块：① 数据清洗与重塑（tidyverse 管道、宽长互转、缺失/异常值治理）；② 出版级可视化（Nature/Science/Cell 级 360+ 类图）；③ 统计增强与多图排版（显著性标注、patchwork、plotly、gganimate）；④ 规范化输出与 AI 协同（矢量导出、数值溯源、可重现）。当用户要绘制科研图表（柱状/箱线/小提琴/热图/火山图/曼哈顿图/桑基/韦恩/环状/旭日/雷达/森林图/生存/ROC/PCOA/PCA/NMDS/Mantel 网络/GO-KEGG 富集/进化树/基因组圈图/单细胞 UMAP 等）、做差异/相关/降维/生存/富集统计、整理真实数据、或要求高 DPI 可发表级出图时使用。
 
 # R 语言顶刊科研绘图 Skill · 新手使用教程（用户向）
