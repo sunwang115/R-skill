@@ -1,4 +1,5 @@
 # R-skill
+<img width="900" height="750" alt="image" src="https://github.com/user-attachments/assets/1be67635-4429-4c76-a904-e85a077a441b" />
 
 R 语言绘图与数据整理专家（原顶刊科研绘图）。覆盖四大模块：① 数据清洗与重塑（tidyverse 管道、宽长互转、缺失/异常值治理）；② 出版级可视化（Nature/Science/Cell 级 360+ 类图）；③ 统计增强与多图排版（显著性标注、patchwork、plotly、gganimate）；④ 规范化输出与 AI 协同（矢量导出、数值溯源、可重现）。当用户要绘制科研图表（柱状/箱线/小提琴/热图/火山图/曼哈顿图/桑基/韦恩/环状/旭日/雷达/森林图/生存/ROC/PCOA/PCA/NMDS/Mantel 网络/GO-KEGG 富集/进化树/基因组圈图/单细胞 UMAP 等）、做差异/相关/降维/生存/富集统计、整理真实数据、或要求高 DPI 可发表级出图时使用。
 
