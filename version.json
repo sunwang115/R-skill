@@ -1,0 +1,10 @@
+{
+  "skill": "r-topjournal-plotting",
+  "latest_version": "1.1.0",
+  "release_date": "2026-10-30",
+  "download_url": "https://baozl.com/2026/10/30/r-%e8%af%ad%e8%a8%80%e7%bb%98%e5%9b%be%e4%bb%a3%e7%a0%81skill/",
+  "check_url": "https://rskill.baozl.com/version.json",
+  "force_remind": false,
+  "reminder": "检测到新版本 v1.1.0，建议前往官方页面获取最新版 skill：https://baozl.com/2026/10/30/r-%e8%af%ad%e8%a8%80%e7%bb%98%e5%9b%be%e4%bb%a3%e7%a0%81skill/",
+  "notes": "内置新手使用教程、官方获取链接与版本更新提醒；新增微生物组/多组学模板 M1-M6。"
+}
